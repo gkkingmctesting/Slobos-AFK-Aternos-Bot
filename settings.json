@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "  Technoblade",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "pvtmc.aternos.me",
+    "port": 14308,
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 900,
       "messages": [
         "I'm a regular player",
         "Subscribe to Slobos!",
